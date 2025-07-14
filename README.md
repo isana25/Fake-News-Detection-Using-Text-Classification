@@ -30,14 +30,14 @@ A machine learning project to classify text as spam (emails/SMS) or fake news us
 
 You can interact with the model using the Gradio interface.  
 **Screenshot:**  
-![Gradio UI Screenshot](https://github.com/yourusername/spam-fake-news-detection/blob/main/assets/gradio_ui_screenshot.png)
+![Gradio UI Screenshot](fake-news.png)
 
 ---
 
 ## Notebooks
 
 Explore the data analysis and model development in the Jupyter notebook:  
-[Spam & Fake News Detection Notebook](https://github.com/yourusername/spam-fake-news-detection/blob/main/notebooks/Spam_FakeNews_Analysis.ipynb)
+[Spam & Fake News Detection Notebook](https://colab.research.google.com/drive/1D7v9yIpfj4K691nCcNdPki7r14H33pZp?usp=sharing)
 
 ---
 
