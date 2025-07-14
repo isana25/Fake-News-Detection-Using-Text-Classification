@@ -1,4 +1,4 @@
-# Spam & Fake News Detection
+# Spam & Fake News Detection using NLP Classification
 
 ## Overview
 A machine learning project to classify text as spam (emails/SMS) or fake news using NLP techniques.
@@ -23,3 +23,37 @@ A machine learning project to classify text as spam (emails/SMS) or fake news us
 - Trained and evaluated ML models
 - Built an interactive demo with Gradio
 - Visualized and saved model results
+
+---
+
+## Gradio UI
+
+You can interact with the model using the Gradio interface.  
+**Screenshot:**  
+![Gradio UI Screenshot](https://github.com/yourusername/spam-fake-news-detection/blob/main/assets/gradio_ui_screenshot.png)
+
+---
+
+## Notebooks
+
+Explore the data analysis and model development in the Jupyter notebook:  
+[Spam & Fake News Detection Notebook](https://github.com/yourusername/spam-fake-news-detection/blob/main/notebooks/Spam_FakeNews_Analysis.ipynb)
+
+---
+
+## Example
+
+**Input:**  
+> "Congratulations! You've won a free iPhone. Click here to claim."
+
+**Output:**  
+> **Label:** Spam
+
+---
+
+## Results
+
+- Achieved high accuracy with Naive Bayes and Random Forest on both spam and fake news datasets.
+- Visualizations include confusion matrices, ROC curves, and feature importance plots.
+
+
